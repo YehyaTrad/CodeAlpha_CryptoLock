@@ -1,5 +1,5 @@
 # Crypto Lock Smart Contract
-**CodeAlpha Blockchain Development Internship – Task 4**
+**CodeAlpha Blockchain Development Internship**
 
 ## 📌 Project Overview
 This project is a personal portfolio smart contract written in **Solidity** as part of the **CodeAlpha Blockchain Development Internship**.
